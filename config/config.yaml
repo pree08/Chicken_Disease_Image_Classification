@@ -1,0 +1,6 @@
+data_root: data
+
+data_ingestion:
+  root_dir: data/data_ingestion
+  local_data_file: /home/kubuntu/Desktop/my_pc/archive.zip
+  unzip_dir: data/data_ingestion
